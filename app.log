@@ -1,0 +1,86 @@
+2025-01-06 18:55:02,722 - INFO - Model performance: 
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       958
+           1       0.99      0.74      0.84       155
+
+    accuracy                           0.96      1113
+   macro avg       0.98      0.87      0.91      1113
+weighted avg       0.96      0.96      0.96      1113
+
+2025-01-06 18:55:02,776 - WARNING -  * Debugger is active!
+2025-01-06 18:55:02,779 - INFO -  * Debugger PIN: 140-360-704
+2025-01-06 18:55:05,027 - INFO - Model performance: 
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       958
+           1       0.99      0.74      0.84       155
+
+    accuracy                           0.96      1113
+   macro avg       0.98      0.87      0.91      1113
+weighted avg       0.96      0.96      0.96      1113
+
+2025-01-06 18:55:05,112 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 18:55:05,112 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 19:04:59,918 - INFO - Model performance: 
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       958
+           1       0.99      0.74      0.84       155
+
+    accuracy                           0.96      1113
+   macro avg       0.98      0.87      0.91      1113
+weighted avg       0.96      0.96      0.96      1113
+
+2025-01-06 19:04:59,979 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 19:04:59,979 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 19:05:41,878 - INFO - 127.0.0.1 - - [06/Jan/2025 19:05:41] "OPTIONS /predict HTTP/1.1" 200 -
+2025-01-06 19:05:41,890 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:05:41,894 - INFO - 127.0.0.1 - - [06/Jan/2025 19:05:41] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-01-06 19:06:48,607 - INFO - Model performance: 
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       958
+           1       0.99      0.74      0.84       155
+
+    accuracy                           0.96      1113
+   macro avg       0.98      0.87      0.91      1113
+weighted avg       0.96      0.96      0.96      1113
+
+2025-01-06 19:06:48,664 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-06 19:06:48,665 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-06 19:16:06,570 - INFO - Dataset loaded successfully
+2025-01-06 19:16:07,923 - INFO - Model training completed successfully
+2025-01-06 19:16:07,940 - INFO - Classification report:
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       958
+           1       0.99      0.74      0.84       155
+
+    accuracy                           0.96      1113
+   macro avg       0.98      0.87      0.91      1113
+weighted avg       0.96      0.96      0.96      1113
+
+2025-01-06 19:18:45,827 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:18:55,021 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:19:03,877 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:19:04,631 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:19:20,583 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:19:21,219 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:19:21,430 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:19:21,768 - ERROR - Error during prediction: [Errno 2] No such file or directory: 'C:/Users/nithish/Desktop/email_spam_detection/backend/model/logistic_model/logistic_model.pkl'
+2025-01-06 19:20:13,367 - INFO - Dataset loaded successfully
+2025-01-06 19:20:14,520 - INFO - Model training completed successfully
+2025-01-06 19:20:14,539 - INFO - Classification report:
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       958
+           1       0.99      0.74      0.84       155
+
+    accuracy                           0.96      1113
+   macro avg       0.98      0.87      0.91      1113
+weighted avg       0.96      0.96      0.96      1113
+
